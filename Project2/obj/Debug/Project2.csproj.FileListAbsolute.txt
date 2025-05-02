@@ -1,0 +1,9 @@
+D:\VideoBank\TestGITCICD\P_TestCICD\Project2\bin\Debug\Project2.dll
+D:\VideoBank\TestGITCICD\P_TestCICD\Project2\bin\Debug\Project2.pdb
+D:\VideoBank\TestGITCICD\P_TestCICD\Project2\bin\Debug\ESRI.ArcGIS.Client.dll
+D:\VideoBank\TestGITCICD\P_TestCICD\Project2\bin\Debug\VideoBank.UTIL.dll
+D:\VideoBank\TestGITCICD\P_TestCICD\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+D:\VideoBank\TestGITCICD\P_TestCICD\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+D:\VideoBank\TestGITCICD\P_TestCICD\Project2\obj\Debug\Project2.csproj.CopyComplete
+D:\VideoBank\TestGITCICD\P_TestCICD\Project2\obj\Debug\Project2.dll
+D:\VideoBank\TestGITCICD\P_TestCICD\Project2\obj\Debug\Project2.pdb
